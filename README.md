@@ -1,5 +1,5 @@
 W01 - Assignment: Computers
-==================
+===========================
 Implementation of an OOP-Model given in UML in Java
 ---------------------------------------------------
 
@@ -32,12 +32,12 @@ Hint: Most IDEs have code generators for these methods. You can use them but try
     + Create a few instances of PC's with equal attributes. Print a marker whether or not consequent array items are equal in the loop requested above.
 1. Add some other features as you wish.
 
-#### UML Model for the basic classes
-![Basic Classes!](./OOP-Example_ComputationDeviceMgmt.png)
+### UML Model for the basic classes
+![Basic Classes!](./OOP-Example_ComputationDeviceMgmt.png)  
 All entities shown in this diagram shall be placed in the root package (however this is called).
 
-#### UML Model for package 'devices'
-![Devices Classes!](./OOP-Example_ComputationDeviceMgmt__devices.png)
+### UML Model for package 'devices'
+![Devices Classes!](./OOP-Example_ComputationDeviceMgmt__devices.png)  
 All entities shown in this diagram shall be placed in package 'devices', which is a sub-package of your root package.
 
 Hints:
